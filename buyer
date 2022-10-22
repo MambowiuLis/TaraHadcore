@@ -1,0 +1,602 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>GriefLand - Покупка доната, привилегий, ключей, кейсов</title>
+
+		<meta name="description" content="GriefLand - Сайт покупки доната или привилегий для сервера майнкрафт. Ключи тоже доступны">
+
+<meta name="keywords" content="донат,привилегии,ключи,griefland,сервер майнкрафт|raw">
+
+<meta name="author" content="Qexy">
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="yandex-verification" content="83dde68ddaa162bf" />
+
+<meta name="google-site-verification" content="eNAq1nWCgONnuIDd34qnPrfyMTVZ6AgDzy3clSXR24o" />
+
+<link rel="shortcut icon" href="/favicon.ico?2" type="image/x-icon">
+
+<link href="/Themes/Default/css/font-exo2.css?2" rel="stylesheet">
+
+<link href="/Themes/Default/css/font-awesome.min.css?1" rel="stylesheet">
+
+<script src="/Themes/Default/js/jquery.min.js?1"></script>
+
+<script src="/Themes/Default/js/jquery.easing.js?1"></script>
+
+<script src="/Themes/Default/js/clipboard.min.js?1"></script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(54291756, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/54291756" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<link href="/Themes/Default/css/global.css?5" rel="stylesheet">
+<link href="/Themes/Default/css/global-responsive.css?5" rel="stylesheet">
+
+<script>meta = JSON.parse('{"sitename":"GriefLand - \u041f\u043e\u043a\u0443\u043f\u043a\u0430 \u0434\u043e\u043d\u0430\u0442\u0430, \u043f\u0440\u0438\u0432\u0438\u043b\u0435\u0433\u0438\u0439, \u043a\u043b\u044e\u0447\u0435\u0439, \u043a\u0435\u0439\u0441\u043e\u0432","sitedesc":"GriefLand - \u0421\u0430\u0439\u0442 \u043f\u043e\u043a\u0443\u043f\u043a\u0438 \u0434\u043e\u043d\u0430\u0442\u0430 \u0438\u043b\u0438 \u043f\u0440\u0438\u0432\u0438\u043b\u0435\u0433\u0438\u0439 \u0434\u043b\u044f \u0441\u0435\u0440\u0432\u0435\u0440\u0430 \u043c\u0430\u0439\u043d\u043a\u0440\u0430\u0444\u0442. \u041a\u043b\u044e\u0447\u0438 \u0442\u043e\u0436\u0435 \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u044b","sitekeys":"\u0434\u043e\u043d\u0430\u0442,\u043f\u0440\u0438\u0432\u0438\u043b\u0435\u0433\u0438\u0438,\u043a\u043b\u044e\u0447\u0438,griefland,\u0441\u0435\u0440\u0432\u0435\u0440 \u043c\u0430\u0439\u043d\u043a\u0440\u0430\u0444\u0442","theme":"Default","theme_url":"\/Themes\/Default\/","site_url":"\/","full_site_url":"https:\/\/griefland.ru","cache_version_css":"1","cache_version_js":"1","token":"e95999f63f013e418d23e636dab39208_ee789ba43b54619edb6cc23cb45db3d2f3405a58c26739dcdeb84d68c41f0eea"}');</script>
+
+<script src="/Themes/Default/js/global.js?1"></script>
+
+<script src="/Themes/Default/js/modal.js?1"></script>
+
+<link href="/Themes/Default/css/dropdown.css?1" rel="stylesheet">
+<script src="/Themes/Default/js/dropdown.js?1"></script>
+
+<!-- GP_E4cb5ST9kUWy2jEhpnXSXZaELNXCVQps; -->
+
+		<link href="/Themes/Default/Resources/Main/css/style.css?15" rel="stylesheet">
+		<link href="/Themes/Default/Resources/Main/css/style-responsive.css?15" rel="stylesheet">
+		<script src="/Themes/Default/Resources/Main/js/script.js?15"></script>
+	</head>
+
+	<body>
+
+	    <div class="header">
+    <div class="container">
+        <div class="navbar">
+            <a href="#" rel="nofollow" class="navbar-mobile"><i class="fa fa-bars"></i></a>
+            <div class="navbar-wrapper">
+                <div class="block-left">
+                    <a href="/" class="logo" rel="nofollow">
+                        <div class="block-left">
+                            <div class="logo-lt">G</div>
+                            <div class="logo-rb">L</div>
+                        </div>
+                        <div class="block-right">
+                            <span class="col-deep-purple">G</span>rief<span class="col-black">L</span>and
+                        </div>
+                    </a>
+                </div>
+
+                <div class="block-center"> </div>
+
+                <div class="block-right">
+                    <ul>
+                        <li class="active"><a href="/" rel="nofollow"><i class="fa fa-shopping-basket"></i> Главная</a></li>
+
+                                                <li class=""><a href="/donate/" rel="nofollow"><i class="fa fa-file-text"></i> Описание доната</a></li>
+                        <li><a href="https://vk.com/im?sel=-183158932" target="_blank" rel="nofollow"><i class="fa fa-comments"></i> Поддержка</a></li>
+                        <li><a href="https://vk.com/griefland_mc" target="_blank" rel="nofollow"><i class="fa fa-vk"></i> Группа ВК</a></li>
+                    </ul>
+                </div>
+            </div>
+                    </div>
+    </div>
+</div>
+
+	<div class="container">
+		<div class="tabs">
+			<div class="tabs-wrapper">
+				<div class="block-left">
+					<ul class="tab-links">
+                        							<li class="active" data-id="category-1">
+								<a href="#" rel="nofollow">
+									<span class="block-left"><i class="fa fa-diamond"></i></span>
+									<span class="block-right">Привилегии</span>
+								</a>
+							</li>
+                        							<li class="" data-id="category-19">
+								<a href="#" rel="nofollow">
+									<span class="block-left"><i class="fa fa-diamond"></i></span>
+									<span class="block-right">Кейсы</span>
+								</a>
+							</li>
+                        							<li class="" data-id="category-20">
+								<a href="#" rel="nofollow">
+									<span class="block-left"><i class="fa fa-diamond"></i></span>
+									<span class="block-right">Рубли</span>
+								</a>
+							</li>
+                        							<li class="" data-id="category-21">
+								<a href="#" rel="nofollow">
+									<span class="block-left"><i class="fa fa-diamond"></i></span>
+									<span class="block-right">Прочее</span>
+								</a>
+							</li>
+                        					</ul>
+				</div>
+
+				<div class="block-right">
+					<button class="btn block copy-clipboard text-upper text-bold" data-clipboard-text="mc.griefland.ru">mc.griefland.ru</button>
+				</div>
+			</div>
+
+			<div class="tab-list">
+                					<div class="tab-id active" data-id="category-1">
+													<div class="category-text pb-20">
+								<div class="panel">Донат выдаётся навсегда, на все сервера грифа.</div>
+							</div>
+						
+						<div class="items">
+															                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/WEQh2Es.png');"></div>
+											<div class="title">[RANGER]</div>
+											<div class="price">15.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="1">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/kjLgmhD.png');"></div>
+											<div class="title">[KNIGHT]</div>
+											<div class="price">39.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="2">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/N3WMJeX.png');"></div>
+											<div class="title">[ELDER]</div>
+											<div class="price">59.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="3">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/lrYZzh9.png');"></div>
+											<div class="title">[KING]</div>
+											<div class="price">99.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="4">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/xjkvJaO.png');"></div>
+											<div class="title">[WIZARD]</div>
+											<div class="price">239.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="5">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/aRJKkML.png');"></div>
+											<div class="title">[GRIEFER]</div>
+											<div class="price">449.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="6">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/mqBcE2p.png');"></div>
+											<div class="title">[PHANTOM]</div>
+											<div class="price">639.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="10">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/OYmFMWn.png');"></div>
+											<div class="title">[LEGEND]</div>
+											<div class="price">879.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="11">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/ZPTnuDS.png');"></div>
+											<div class="title">[PHOENIX]</div>
+											<div class="price">1249.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="12">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/wGkILC0.png');"></div>
+											<div class="title">[BERSERK]</div>
+											<div class="price">1979.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="50">
+										</div>
+                                    																					</div>
+					</div>
+									<div class="tab-id " data-id="category-19">
+													<div class="category-text pb-20">
+								<div class="panel">При покупке от 3 ключей даётся скидка, чем больше ключей покупаете - тем выше скидка!</div>
+							</div>
+						
+						<div class="items">
+															                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/y4iAl0j.png');"></div>
+											<div class="title">Ключи с титулами</div>
+											<div class="price">10.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="1">
+											<input type="hidden" name="item_id" value="43">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/fIsgJmQ.png');"></div>
+											<div class="title">Ключи к валюте</div>
+											<div class="price">15.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="1">
+											<input type="hidden" name="item_id" value="31">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/BXYJdBw.png');"></div>
+											<div class="title">Ключи с донатом</div>
+											<div class="price">25.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="1">
+											<input type="hidden" name="item_id" value="7">
+										</div>
+                                    																					</div>
+					</div>
+									<div class="tab-id " data-id="category-20">
+													<div class="category-text pb-20">
+								<div class="panel">После вайпа баланс рублей сохраняется. Рубли можно тратить в магазине на сервере /shop</div>
+							</div>
+						
+						<div class="items">
+															                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/3wxa6eu.png');"></div>
+											<div class="title">50 Рублей [Бонус - 0 руб]</div>
+											<div class="price">25.00 <i class="fa fa-ruble col-black"></i></div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="35">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/3wxa6eu.png');"></div>
+											<div class="title">100 Рублей [Бонус - 10 руб]</div>
+											<div class="price">49.00 <i class="fa fa-ruble col-black"></i></div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="36">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/ZKyCpzs.png');"></div>
+											<div class="title">250 Рублей [Бонус - 40 руб]</div>
+											<div class="price">125.00 <i class="fa fa-ruble col-black"></i></div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="37">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/ZKyCpzs.png');"></div>
+											<div class="title">500 Рублей [Бонус - 100 руб]</div>
+											<div class="price">249.00 <i class="fa fa-ruble col-black"></i></div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="38">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/KEcQ2Sv.png');"></div>
+											<div class="title">1000 Рублей [Бонус - 220 руб]</div>
+											<div class="price">499.00 <i class="fa fa-ruble col-black"></i></div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="39">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/JZ0aBLe.png');"></div>
+											<div class="title">3000 Рублей [Бонус - 1200 руб]</div>
+											<div class="price">1499.00 <i class="fa fa-ruble col-black"></i></div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="40">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/N7ZE5pm.png');"></div>
+											<div class="title">5000 Рублей [Бонус - 2500 руб]</div>
+											<div class="price">2499.00 <i class="fa fa-ruble col-black"></i></div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="41">
+										</div>
+                                    																					</div>
+					</div>
+									<div class="tab-id " data-id="category-21">
+													<div class="category-text pb-20">
+								<div class="panel">Внимание! После покупки, обратитесь в личные сообщения группы vk.me/griefland_mc с пометкой #восстановление. Вам будет восстановлен доступ к аккаунту, только если вы докажете, что являетесь его владельцем</div>
+							</div>
+						
+						<div class="items">
+															                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/kq5HfIE.png');"></div>
+											<div class="title">Размут</div>
+											<div class="price">69.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="49">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/GuxK0vI.png');"></div>
+											<div class="title">Восстановление аккаунта</div>
+											<div class="price">119.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="33">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/xKi37w0.png');"></div>
+											<div class="title">Разбан</div>
+											<div class="price">119.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="42">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/M9oj3FN.png');"></div>
+											<div class="title">EZ</div>
+											<div class="price">139.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="47">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/qhocdd9.png');"></div>
+											<div class="title">MARVEL</div>
+											<div class="price">199.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="44">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/yRryT7P.png');"></div>
+											<div class="title">DS</div>
+											<div class="price">199.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="45">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/AlbttBq.png');"></div>
+											<div class="title">PVP</div>
+											<div class="price">199.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="46">
+										</div>
+                                    								                                    										<div class="item-id" data-modal="paymodal">
+											<div class="image" style="background-image: url('https://i.imgur.com/KnkVIbp.png');"></div>
+											<div class="title">Разные</div>
+											<div class="price">199.00 <i class="fa fa-ruble col-black"></i></div>
+                                            												<div class="discount">-90%</div>
+                                            											<input type="hidden" name="amounted" value="0">
+											<input type="hidden" name="item_id" value="48">
+										</div>
+                                    																					</div>
+					</div>
+							</div>
+		</div>
+	</div>
+
+	<div class="modal" data-id="paymodal">
+		<div class="wrapper">
+			<form method="post" id="buyform" action="/donate/make" class="modal-content">
+				<div class="modal-header text-center text-bold"></div>
+
+				<input type="hidden" name="item_id" value="0">
+				<input type="hidden" name="method" value="unitpay">
+				<input type="hidden" name="phone" value="">
+
+				<div class="modal-body">
+					<div class="input-block">
+						<label for="login">Укажите Ваш никнейм на сервере</label>
+						<input type="text" name="login" id="login" placeholder="ВВЕДИТЕ НИКНЕЙМ">
+					</div>
+					<div id="amounted">
+						<br>
+						<div class="input-block">
+							<label for="amount">Укажите кол-во товара</label>
+							<input type="number" min="1" step="1" name="amount" id="amount" value="1" placeholder="ВВЕДИТЕ КОЛ-ВО">
+						</div>
+					</div>
+					<br>
+					<div class="input-block">
+						<label for="promo">Укажите промо-код, если он у Вас есть</label>
+						<input type="text" name="promo" id="promo" value="" placeholder="ВВЕДИТЕ ПРОМО-КОД">
+					</div>
+				</div>
+
+				<div class="modal-footer text-right">
+					<button class="btn text-upper" type="submit">Оплатить</button>
+
+					<button data-modal-close class="btn text-upper btn-clear">Закрыть</button>
+				</div>
+			</form>
+		</div>
+	</div>
+
+	<div class="modal" data-id="methodmodal">
+		<div class="wrapper">
+			<form id="methodform" class="modal-content">
+				<div class="modal-header text-center text-bold">Выберите способ оплаты</div>
+
+				<ul class="methods">
+					<li><button class="btn block w-100" type="button" data-type="yoomoney-card" data-pic="card" title="Карты"><span class="subtext">#1</span></button></li>
+					<li><button class="btn block w-100" type="button" data-type="centapp-card" data-pic="card" title="Карты"><span class="subtext">#2</span></button></li>
+					<li><button class="btn block w-100" type="button" data-type="centapp-card" data-pic="qiwi" title="Qiwi"></button></li>
+					<li><button class="btn block w-100" type="button" data-type="yoomoney-account" data-pic="yandex" title="ЮMoney"></button></li>
+					<li><button class="btn block w-100" type="button" data-type="getpay-megafon" data-pic="megafon" title="Мегафон"></button></li>
+															<li><button class="btn block w-100" type="button" data-type="getpay-tele2" data-pic="tele2" title="ТЕЛЕ2"></button></li>
+					<li><button class="btn block w-100" type="button" data-type="getpay-mts" data-pic="mts" title="МТС"></button></li>
+					<li><button class="btn block w-100" type="button" data-type="getpay-beeline" data-pic="beeline" title="Beeline"></button></li>
+										<li><button class="btn block w-100" type="button" data-type="anypay-pm" data-pic="perfectmoney" title="Perfect Money"></button></li>
+					<li><button class="btn block w-100" type="button" data-type="anypay-btc1" data-pic="bitcoin" title="Криптовалюта"></button></li>
+				</ul>
+
+				<div class="methods-text">В случае ошибки платежа попробуйте другой метод оплаты картой</div>
+
+				<ul class="methods">
+					                    <li><button class="btn block w-100" type="button" data-type="qiwi-card" data-pic="card" title="Карты"><span class="subtext">#3</span></button></li>
+					<li><button class="btn block w-100" type="button" data-type="centapp-cards" data-pic="card" title="Карты"><span class="flag es"></span><span class="subtext">#4</span></button></li>
+									</ul>
+			</form>
+		</div>
+	</div>
+
+	<div class="modal" data-id="numbermodal">
+		<div class="wrapper">
+			<form id="numbermodal" class="modal-content">
+				<div class="modal-header text-center text-bold">Введите номер телефона</div>
+
+				<div class="pt-20">
+					<div class="input-block" id="phone-number-block">
+						<div class="input-prepend">+7</div>
+						<input type="text" maxlength="10" id="phone-number" placeholder="Без кода страны: 9876543210">
+					</div>
+				</div>
+
+				<div class="pt-20">
+					<div class="phone-alert">
+						Введите номер Российского оператора МТС.<br>
+						В течение 20 минут ваш оператор пришлёт смс и попросит подтвердить платёж ответным сообщением.
+					</div>
+				</div>
+
+				<div class="text-center pt-20">
+					<button class="btn block w-100" type="submit">Подтвердить</button>
+				</div>
+			</form>
+		</div>
+	</div>
+
+	<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(54291756, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/54291756" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+		<footer>
+	<div class="container">
+		<div class="block-left">
+			<a href="/" class="logo" rel="nofollow">
+				<div class="block-left">
+					<div class="logo-lt">G</div>
+					<div class="logo-rb">L</div>
+				</div>
+				<div class="block-right">
+					<span class="col-deep-purple">G</span>rief<span class="col-black">L</span>and
+				</div>
+			</a>
+		</div>
+
+		<div class="block-center">
+			Полное или частичное копирование сайта запрещено © GriefLand<br>
+			Почта для связи: <a href="/cdn-cgi/l/email-protection#681b1a1e050b000d0418280f05090104460b0705" rel="nofollow"><span class="__cf_email__" data-cfemail="85f6f7f3e8e6ede0e9f5c5e2e8e4ece9abe6eae8">[email&#160;protected]</span></a>
+		</div>
+
+		<div class="block-right">
+            			<a href="https://qexy.org" target="_blank" title="Qexy - Разработка сайта" class="developer"></a>
+		</div>
+	</div>
+</footer>
+
+<div class="modal" data-id="donate">
+	<div class="wrapper">
+		<div class="modal-content">
+			<div class="modal-header text-center text-bold">Описание доната</div>
+
+			<div class="modal-body">
+
+				<center>
+					<p><a href="/" rel="nofollow" class="btn btn-success">Приобрести донат</a></p>
+					<br>
+					<p><h2><font color="blue" face="Arial">Возможности привилегий</font></h2></p>
+					<br>
+					<p><h1>RANGER</h1></p>
+					<br>
+					<img src="https://i.imgur.com/JnqjjKM.png" class="img-fluid">
+					<hr>
+					<p><h1>KNIGHT</h1></p><br>
+					<img src="https://i.imgur.com/gWvndk1.png" class="img-fluid">
+					<hr>
+					<p><h1>ELDER</h1></p><br>
+					<img src="https://i.imgur.com/O0WqMdJ.png" class="img-fluid">
+					<hr>
+					<p><h1>KING</h1></p><br>
+					<img src="https://i.imgur.com/uCtFspU.png" class="img-fluid">
+					<hr>
+					<p><h1>WIZARD</h1></p><br>
+					<img src="https://i.imgur.com/3UnOiHq.png" class="img-fluid">
+					<hr>
+					<p><h1>GRIEFER</h1></p><br>
+					<img src="https://i.imgur.com/2IgusEz.png" class="img-fluid">
+					<hr>
+				    <p><h1>PHANTOM</h1></p><br>
+					<img src="https://i.imgur.com/gg57MkI.png" class="img-fluid">
+					<hr>
+					<p><h1>LEGEND</h1></p><br>
+					<img src="https://i.imgur.com/H0i5jzv.png" class="img-fluid">
+					<hr>
+					<p><h1>PHOENIX</h1></p><br>
+					<img src="https://i.imgur.com/RK7XRbh.png" class="img-fluid">
+					<hr>
+					<p><h1>Возникли проблемы?</h1></p><br>
+					<p>Ты всегда можешь обратиться в нашу службу поддержки!</p><br>
+					<p><a rel="nofollow" target="_blank" href="https://vk.me/griefland_mc" class="btn btn-warning">Обратиться в техническую поддержку</a></p>
+				</center>
+
+			</div>
+
+			<div class="modal-footer text-right">
+				<button data-modal-close class="btn btn-clear text-upper">Закрыть</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="modal" data-id="restores">
+	<div class="wrapper">
+		<div class="modal-content">
+			<div class="modal-header text-center text-bold">Восстановления аккаунта</div>
+
+			<div class="modal-body">
+
+				<div class="restores">
+                    						<div class="restore-none">Нет доступных восстановлений</div>
+                    				</div>
+
+			</div>
+
+			<div class="modal-footer text-right">
+				<button data-modal-close class="btn btn-clear text-upper">Закрыть</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
